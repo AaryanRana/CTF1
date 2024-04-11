@@ -53,6 +53,7 @@ h1{
 .hey{
     font-size: 25px;
     color: rgb(255, 235, 235);
+    font-family: sans-serif;
 }
 
 h2{
@@ -213,12 +214,3 @@ body {
     max-width: 1200px;
     margin: 0 auto;
   }
-  .w{
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    margin-bottom: 20px;
-    float: left;
-    border: solid;
-}
